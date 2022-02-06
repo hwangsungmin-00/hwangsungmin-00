@@ -31,10 +31,10 @@
 2020.03 ~ :  Duksung.w.Uni Computer Engineering
 
 
-### Experience
 <br>
 ### 2021
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
+<hr>
 - 2nd SmileGate SGM
 
 
