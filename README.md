@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=💜Sungmin%20Hwang💜&fontSize=65&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=💜𝕊𝕦𝕟𝕘𝕞𝕚𝕟%20Hwnag💜&fontSize=65&fontColor=FFFFFF)
 
 <br>
 
