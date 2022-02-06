@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=�Sungmin%20Hwang&fontSize=65&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=💜Sungmin%20Hwang💜&fontSize=65&fontColor=FFFFFF)
 
 <br>
 
@@ -23,12 +23,12 @@
 
 <br>
 
-## IT's ME!
+## IT's ME!❤️
 <a href="https://www.instagram.com/ssungmini._.00/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssungmini._.00/"/></a>&nbsp;&nbsp;<a href="https://github.com/hwangsungmin-00?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/ssungmini._.00/"/></a>
 
 ## Profile
 ### Education
-2020.03 ~ :  Duksung.w.Uni Computer Engineering
+2020.03 ~ :  Duksung.w.Uni Computer Engineering💻
 
 
 <br>
