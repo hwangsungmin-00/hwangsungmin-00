@@ -33,7 +33,6 @@
 
 <br>
 ### 2021
-<br>
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
 - 2nd SmileGate SGM
 ### 2021
