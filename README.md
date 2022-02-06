@@ -36,7 +36,8 @@
 <br>
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
 - 2nd SmileGate SGM
-
+### 2021
+- 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
 
 ### 2020
 - 1st Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
