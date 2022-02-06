@@ -33,8 +33,8 @@
 
 ### Experience
 ### 2021
-- 5th CJ UNIT
-- 28th SOPT Server Development
+- 2nd SmileGate SGM
+- 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
 ### 2020
 - 1st Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
 
