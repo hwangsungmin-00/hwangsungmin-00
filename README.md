@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=#FFCBCB&height=350&section=header&text=💜Sungmin%20Hwang💜&fontSize=65&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFCBCB&height=350&section=header&text=💜Sungmin%20Hwang💜&fontSize=65&fontColor=FFFFFF)
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=#FFCBCB&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=FFCBCB&height=100&section=footer)
 
 
 <!--
