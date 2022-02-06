@@ -4,7 +4,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssua-0928&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangsungmin-00&count_private=true&show_icons=true&theme=buefy)
 
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -24,7 +24,7 @@
 <br>
 
 ## IT's ME!
-<a href="https://www.instagram.com/ssungmini._.00/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssungmini._.00/"/></a>&nbsp;&nbsp;<a href="https://github.com/sssua-0028?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/ssungmini._.00/"/></a>
+<a href="https://www.instagram.com/ssungmini._.00/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssungmini._.00/"/></a>&nbsp;&nbsp;<a href="https://github.com/hwangsungmin-00?tab=overview&from=2021-01-01&to=2021-01-09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/ssungmini._.00/"/></a>
 
 ## Profile
 ### Education
@@ -33,8 +33,8 @@
 
 <br>
 ### 2021
+<br>
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
-<hr>
 - 2nd SmileGate SGM
 
 
