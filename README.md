@@ -32,6 +32,13 @@
 
 
 ### Experience
+### 2023
+- EXCHANGE STUDENT IN USA -ASU
+### 2022
+- TEAM DREAMIT: "Project: Dreamable"-Frontend개발(React)
+- TEAM 국회로: "Project: ToTheAssembly"-Backend개발(Node.js, MySQL, AWS)
+- TEAM 졸업준비위원회: "Project: WISCOM"-Backend개발(Node.js, MongoDB)
+- TEAM Shape-Up: "Project: 반기다"-FullStack개발(AndroidStudio:Kotlin, Node.js, MongoDB)
 ### 2021
 - 2nd SmileGate SGM
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
