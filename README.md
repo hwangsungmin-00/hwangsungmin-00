@@ -19,6 +19,12 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
                  
 </div>
 
@@ -40,9 +46,9 @@
 - Naver Cloud Intern (6month)
 ### 2022
 - TEAM DREAMIT: "Project: Dreamable"-Frontend개발(React)
-- TEAM 국회로: "Project: ToTheAssembly"-Backend개발(Node.js, MySQL, AWS)
+- TEAM 국회로: "Project: ToTheAssembly" 한이음 동상 수상-Backend개발(Node.js, MySQL, AWS)
 - TEAM 졸업준비위원회: "Project: WISCOM"-Backend개발(Node.js, MongoDB)
-- TEAM Shape-Up: "Project: 반기다"-FullStack개발(AndroidStudio:Kotlin, Node.js, MongoDB)
+- TEAM Shape-Up: "Project: 반기다" 한이음 입선-FullStack개발(AndroidStudio:Kotlin, Node.js, MongoDB)
 ### 2021
 - 2nd SmileGate SGM : 코딩 교육 봉사 
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
