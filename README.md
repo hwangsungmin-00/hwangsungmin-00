@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+                 
 </div>
 
 <br>
@@ -35,14 +36,15 @@
 ### 2024
 - ???
 ### 2023
-- EXCHANGE STUDENT IN USA -ASU
+- EXCHANGE STUDENT IN USA -ASU(4month)
+- Naver Cloud Intern (6month)
 ### 2022
 - TEAM DREAMIT: "Project: Dreamable"-Frontend개발(React)
 - TEAM 국회로: "Project: ToTheAssembly"-Backend개발(Node.js, MySQL, AWS)
 - TEAM 졸업준비위원회: "Project: WISCOM"-Backend개발(Node.js, MongoDB)
 - TEAM Shape-Up: "Project: 반기다"-FullStack개발(AndroidStudio:Kotlin, Node.js, MongoDB)
 ### 2021
-- 2nd SmileGate SGM
+- 2nd SmileGate SGM : 코딩 교육 봉사 
 - 2nd Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
 ### 2020
 - 1st Duksung.w.Uni Science and Technology Academic Festival.(Encouragement award)
