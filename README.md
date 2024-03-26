@@ -43,7 +43,7 @@
 - ???
 ### 2023
 - EXCHANGE STUDENT IN USA -ASU(4month)
-- Naver Cloud Intern (6month)
+- Cloud Intern (6month)
 ### 2022
 - TEAM DREAMIT: "Project: Dreamable"-Frontend개발(React)
 - TEAM 국회로: "Project: ToTheAssembly" 한이음 동상 수상-Backend개발(Node.js, MySQL, AWS)
