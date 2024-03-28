@@ -40,7 +40,7 @@
 
 ### Experience
 ### 2024
-- ???
+- TEAM Volare : "Project : 졸업프로젝트"
 ### 2023
 - EXCHANGE STUDENT IN USA -ASU(4month)
 - Cloud Intern (6month)
